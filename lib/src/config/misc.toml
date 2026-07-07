@@ -52,7 +52,7 @@ name = ""
 [working-copy]
 eol-conversion = "none"
 exec-bit-change = "auto"
-eol-conversion-use-gitattributes = false
+eol-conversion-use-gitattributes = true
 gitattributes-default-eol = "none"
 
 [experimental]
